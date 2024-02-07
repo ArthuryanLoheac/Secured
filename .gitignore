@@ -1,0 +1,8 @@
+*.log
+*.a
+*.out
+*.gcno
+*.gcda
+.vscode
+tests/test
+unit_tests
